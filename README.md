@@ -10,7 +10,7 @@ Engineering Student @ Saveetha Engineering College
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kishor-kumar-baskaran-8b136b311/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC1Uyh-_DunZJoLgBoLcIuDQ)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1Uyh-_DunZJoLgBoLcIuDQ)
 
 
